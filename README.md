@@ -1,1 +1,2 @@
 # Resume-Builder
+The Resume Builder project is a web-based tool designed to help users create professional resumes quickly and efficiently using HTML, CSS, and JavaScript. This intuitive platform provides users with customizable templates, allowing them to input personal information, skills, and experience while the system generates a polished, ready-to-download resume in real-time. The clean interface and interactive design ensure that users of all backgrounds can create resumes that suit their professional needs, without requiring advanced technical skills.
